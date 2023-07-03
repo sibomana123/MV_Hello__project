@@ -62,8 +62,8 @@ html, css, git, github and linters.
 
 In this project best coding practices is used
 
- - [🚀 Live Demo](#live-demo)
- -<a name="live_demo">See live demo🚀</a>
+ - [🚀 Live Demo](#live-demo]
+ -<a href="#live">See live demo🚀</a>
 
   
 
