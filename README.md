@@ -167,8 +167,14 @@ Your working browser.
 - GitHub:https://github.com/sibomana123
 - Twitter: https://twitter.com/imbwebwee
 
-- [🔭 Future Features](#future-features)
-- In the future time I will use this setup to make my own Portfolio website where it's will include some features you can use to reach me out on My carrer
+ ## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[I will build Best Portfolio ]** 
+- [ ]  **[Best practice html and css]**
+- [ ]  **[Contact Me]**
+
+
+ In the future time I will use this setup to make my own Portfolio website where it's will include some features you can use to reach me out on My carrer
 
 ## 🤝 Contributing <a name="contributing"></a>
 
