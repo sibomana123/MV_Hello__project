@@ -29,9 +29,9 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [HelloWorld-Microverse] <a name="about-project"></a>
+# 📖 [Microverse Hello Project] <a name="about-project"></a>
 
-**[HelloWorld-Microverse]** is a project to make Micronauts learn about linters configurations and other project initial settings.
+**[Microverse Hello Project]** This is a project that makes Micronauts learn about linter configurations and other project initial settings.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -66,14 +66,14 @@ In this project best coding practices is use
 
 To get a local copy up and running, follow these steps.
 
-1. Go to this URL link: https://github.com/sibomana123/MV_Hello__project.git
+1. Go to this URL link: https://github.com/sibomana123/MV__portfolio
 2. clone the repo and start working on it.
 
 ### Prerequisites
 
 In order to run this project you need:
 
-Google Chrome or other browser
+Google Chrome or another browser
 
 ```sh
   https://www.google.com/chrome/?brand=JJTC&gclid=CjwKCAjw9J2iBhBPEiwAErwpeSDcMFWiIQWj2u5GY6owZ7OaOHw7dYYCHW7uTR4kvYosNJYd4wt4VxoCiywQAvD_BwE&gclsrc=aw.ds
