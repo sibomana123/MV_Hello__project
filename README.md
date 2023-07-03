@@ -63,6 +63,7 @@ html, css, git, github and linters.
 In this project best coding practices is used
 
  - [🚀 Live Demo](#live-demo)
+ - You can click above  to access live demo of This website But current is not appear😄
   
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -166,7 +167,7 @@ Your working browser.
 - Twitter: https://twitter.com/imbwebwee
 
 - [🔭 Future Features](#future-features)
-- In future time I will use this setup to make my own Portfolio website where it's will include some features you can use to reach me out
+- In the future time I will use this setup to make my own Portfolio website where it's will include some features you can use to reach me out on My carrer
 
 ## 🤝 Contributing <a name="contributing"></a>
 
