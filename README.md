@@ -169,8 +169,8 @@ Your working browser.
 
  ## 🔭 Future Features <a name="future-features"></a>
 
-- [] **[I will build Best Portfolio ]** 
-- []  **[Best practice html and css]**
+- [ ] **[I will build Best Portfolio ]** 
+- [ ]  **[Best practice html and css]**
 
  In the future time I will use this setup to make my own Portfolio website where it's will include some features you can use to reach me out on My carrer
 
