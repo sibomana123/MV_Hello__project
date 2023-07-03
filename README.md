@@ -63,7 +63,7 @@ html, css, git, github and linters.
 In this project best coding practices is used
 
  - [🚀 Live Demo](#live-demo)
-   <a name="live_demo">See live demo🚀</a>
+ -<a name="live_demo">See live demo🚀</a>
 
   
 
