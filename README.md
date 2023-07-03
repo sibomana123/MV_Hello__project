@@ -60,7 +60,10 @@ html, css, git, github and linters.
 - **[Clean Coded]**
 - **[Extendable and flexable]**
 
-In this project best coding practices is use
+In this project best coding practices is used
+
+ - [🚀 Live Demo](#live-demo)
+  
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -162,6 +165,8 @@ Your working browser.
 - GitHub:https://github.com/sibomana123
 - Twitter: https://twitter.com/imbwebwee
 
+- [🔭 Future Features](#future-features)
+- In future time I will use this setup to make my own Portfolio website where it's will include some features you can use to reach me out
 
 ## 🤝 Contributing <a name="contributing"></a>
 
