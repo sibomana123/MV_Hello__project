@@ -5,7 +5,7 @@
   box-sizing: border-box;
 }
 
-h1 {
+.header {
   color: red;
   font-size: 32px;
 }
